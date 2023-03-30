@@ -1,0 +1,9 @@
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Core\bin\Debug\netcoreapp3.1\TatBlog.Core.deps.json
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Core\bin\Debug\netcoreapp3.1\TatBlog.Core.dll
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Core\bin\Debug\netcoreapp3.1\TatBlog.Core.pdb
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Core\obj\Debug\netcoreapp3.1\TatBlog.Core.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Core\obj\Debug\netcoreapp3.1\TatBlog.Core.AssemblyInfoInputs.cache
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Core\obj\Debug\netcoreapp3.1\TatBlog.Core.AssemblyInfo.cs
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Core\obj\Debug\netcoreapp3.1\TatBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Core\obj\Debug\netcoreapp3.1\TatBlog.Core.dll
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Core\obj\Debug\netcoreapp3.1\TatBlog.Core.pdb

@@ -1,0 +1,4 @@
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Services\obj\Debug\netcoreapp3.1\TatBlog.Services.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Services\obj\Debug\netcoreapp3.1\TatBlog.Services.AssemblyInfoInputs.cache
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Services\obj\Debug\netcoreapp3.1\TatBlog.Services.AssemblyInfo.cs
+C:\Users\CICT\Downloads\TipsAndTricks\TatBlog.Services\obj\Debug\netcoreapp3.1\TatBlog.Services.csproj.CoreCompileInputs.cache
